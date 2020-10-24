@@ -15,7 +15,8 @@
 * Graduated in Lic. in Computer Science from the Federal University of Paraíba;
 * Master student in Software Engineering and Programming Language at Federal University of Pernambuco;
 * [Plugged Computing project](https://sites.google.com/view/computacaoplugada) coordinator;
-* Passionate about Mobile Development;
+* Creator and maintainer of the [English-Talking-Api](https://github.com/barbosamaatheus/english-talking-api) open source project;
+* Passionate about Web and Mobile Development;
 
 
 ### Technologies and Tools
