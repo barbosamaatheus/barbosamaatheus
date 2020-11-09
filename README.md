@@ -10,6 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/barbosamaatheus)](https://twitter.com/barbosamaatheus)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@Matheus%20Barbosa#0589)](https://discord.com/channels/@Matheus%20Barbosa#0589)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:maatheusb96@gmail.com)](mailto:maatheusb96@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=barbosamaatheus&color=gray&style=flat-square)](https://github.com/barbosamaatheus)
 
 
 * Graduated in Lic. in Computer Science from the Federal University of Paraíba;
