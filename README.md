@@ -23,28 +23,33 @@
 ### Technologies and Tools
 
 <div class="row">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="apple" width="20" height="20"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple" width="20" height="20"/>  
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="20" height="20"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="20" height="20"/>
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="20" height="20"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/>
+    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="20" height="20"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgressql" width="20" height="20"/>
 
- 
   <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="20" height="20"/>
   
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 </div>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosamaatheus&layout=compact&theme=dracula" /></a>
