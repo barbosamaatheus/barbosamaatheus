@@ -10,13 +10,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/barbosamaatheus)](https://twitter.com/barbosamaatheus)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@Matheus%20Barbosa#0589)](https://discord.com/channels/@Matheus%20Barbosa#0589)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:maatheusb96@gmail.com)](mailto:maatheusb96@gmail.com)
+[![Lattes Badge](https://img.shields.io/static/v1?label=Lattes&message=0987601661627331&link=http://lattes.cnpq.br/0987601661627331&color=blue)](http://lattes.cnpq.br/0987601661627331)
 [![Profile Views](https://komarev.com/ghpvc/?username=barbosamaatheus&color=gray&style=flat-square)](https://github.com/barbosamaatheus)
 
 
 * Graduated in Lic. in Computer Science from the Federal University of Paraíba;
-* Master student in Software Engineering and Programming Language at Federal University of Pernambuco;
+* Master in Software Engineering and Programming Language at Federal University of Pernambuco;
+* Phd student in Software Engineering and Programming Language at Federal University of Pernambuco;
 * [Plugged Computing project](https://sites.google.com/view/computacaoplugada) coordinator;
 * Creator and maintainer of the [English-Talking-Api](https://github.com/barbosamaatheus/english-talking-api) open source project;
+* CTO at [Knowledge Serviços de Tecnologia](https://github.com/knowledge-technology)
 * Passionate about Web and Mobile Development;
 
 
